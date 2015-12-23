@@ -1,5 +1,6 @@
-url: https://silvermist.github.io
-baseurl: 
+production_url: http://silvermist.github.io
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://nicola-and-carl.com" # the base hostname & protocol for your site
 
 # Site settings
 title: Nicola and Carl
