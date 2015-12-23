@@ -16,8 +16,10 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
-                            <button type="button" class="btn btn-default" href="">View Registry</button>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            <span>
+                                {{ post.registry }}
+                            </span>
+                            <a href="" class="page-scroll btn btn-xl" data-dismiss="modal"><i class="fa fa-times"></i> Close</a>
                         </div>
                     </div>
                 </div>

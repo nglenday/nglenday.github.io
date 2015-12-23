@@ -1,6 +1,6 @@
 ---
 title: Woolworths
-subtitle: Registry
+subtitle: No registry!
 layout: default
 modal-id: 1
 img: woolworths.jpg
@@ -9,6 +9,6 @@ alt: Woolworths
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: We've put together a registry at Woolworths.  You can browse it and see if there is anything you feel like getting us by clicking the button below.
+description: Woolworths has unfortunately decided to dicontinue their wedding registry service as of the 31st December 2015.  Great pity, we know.  Of course shopping online is still easy and there is a Woolworths store on every corner too, so if you'd like to buy something from them you shouldn't run into too much trouble.  We can't avoid duplicates, but Woolworths does have a great exchange policy, so don't trouble yourself on that account.
 
 ---
