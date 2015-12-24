@@ -298,7 +298,9 @@ fieldset[disabled] .btn-xl.active {
 
 @media(min-width:992px) {
 
-    .container{width:930px}
+    .container {
+        width:930px;
+    }
     .navbar-default {
         padding: 25px 0;
         border: 0;
@@ -342,6 +344,11 @@ fieldset[disabled] .btn-xl.active {
 }
 
 @media(min-width:1280px) {
+
+    .container {
+        width:1180px;
+    }
+
     .navbar-default {
         padding: 25px 0;
         border: 0;
