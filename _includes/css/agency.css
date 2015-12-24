@@ -296,7 +296,9 @@ fieldset[disabled] .btn-xl.active {
 
 }
 
-@media(min-width:980px) {
+@media(min-width:992px) {
+
+    .container{width:930px}
     .navbar-default {
         padding: 25px 0;
         border: 0;
