@@ -274,6 +274,7 @@ fieldset[disabled] .btn-xl.active {
         -moz-transition: all .3s;
         transition: all .3s;
         padding: 15px 10px;
+        margin-left: 0px;
     }
 
     .navbar-default .navbar-nav>.active>a {
