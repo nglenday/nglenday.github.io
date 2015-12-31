@@ -421,9 +421,9 @@ header {
     text-align: center;
     color: #fff;
     padding: 50 0 50;
-    background-position: 50% 70%;
-    background-attachment: fixed;
-    background-image: url(img/tinted-bg.jpg);
+    background-position: 90% 40%;
+    background-attachment: scroll;
+    background-image: url(img/new-bg.jpg);
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
